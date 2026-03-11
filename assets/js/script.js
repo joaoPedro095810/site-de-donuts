@@ -1,12 +1,4 @@
-console.log("Site de Donuts carregado 🍩");
 
-const botaoExplorar = document.querySelector(".primary");
-
-botaoExplorar.addEventListener("click", () => {
-
-alert("Explorando nossos donuts deliciosos 🍩");
-
-});
 // botões da index
 const btnExplorar = document.getElementById("explorar")
 const btnSabores = document.getElementById("verSabores")
